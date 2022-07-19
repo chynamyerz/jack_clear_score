@@ -1,0 +1,1 @@
+export { CSCardFooterChip } from "./CSCardFooterChip";
